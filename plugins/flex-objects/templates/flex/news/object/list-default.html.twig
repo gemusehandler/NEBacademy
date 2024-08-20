@@ -1,0 +1,21 @@
+<div class="entry-details">
+    {% if object.website %}
+        <a href="{{ object.website|e }}"><span class="name">{{ object.name|e }}</span></a>
+    {% else %}
+        <span class="name">{{ object.name|e }}</span>
+    {% endif %}
+    {% if object.publisher %}
+         <p><span class="publisher">{{ object.publisher|e }}</span> | 
+    {% endif %}
+    {% if object.place %}
+        <span class="place">{{ object.place|e }}</span>
+    {% endif %}
+    {% if object.date %}</p>
+        <p>{{ object.date|e }}</p>
+    {% endif %}
+</div>
+<div class="entry-extra">
+    {% for tag in object.tags %}
+        <span>{{ tag|e }}</span>
+    {% endfor %}
+</div>
