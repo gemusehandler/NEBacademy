@@ -12,7 +12,7 @@ visible: false
 redirect_default_route: true
 ---
 
-# NORDIC Hub
+## NORDIC Hub
 ---
 [plugin:page-inject](/hubs/_nordic/_rise/)
 [plugin:page-inject](/hubs/_nordic/_aalto/)
