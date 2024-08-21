@@ -12,7 +12,7 @@ visible: false
 redirect_default_route: true
 ---
 
-# NEBAP Hub
+## NEBAP Hub
 ---
 [plugin:page-inject](/hubs/_nebap/_upr/)
 [plugin:page-inject](/hubs/_nebap/_holzbauaustria/)
