@@ -12,7 +12,7 @@ visible: false
 redirect_default_route: true
 ---
 
-# EU OUTREACH Hub
+## EU OUTREACH Hub
 ---
 [plugin:page-inject](/outreach/_eu_outreach/_innovawood/)
 [plugin:page-inject](/outreach/_eu_outreach/_eaae/)
