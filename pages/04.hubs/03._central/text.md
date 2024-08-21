@@ -12,7 +12,7 @@ visible: false
 redirect_default_route: true
 ---
 
-# CENTRAL Hub
+## CENTRAL Hub
 ---
 [plugin:page-inject](/hubs/_central/_bauhauserde/)
 [plugin:page-inject](/hubs/_central/_tu_delft/)
