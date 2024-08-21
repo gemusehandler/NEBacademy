@@ -20,7 +20,7 @@ hide_post_taxonomy: false
 continue_link_as_button: false
 feed:
     limit: 10
-media_order: commission.jpg
+media_order: commission.webp
 sitemap:
     lastmod: '28-07-2024 15:10'
 ---
