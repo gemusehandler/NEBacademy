@@ -1,7 +1,9 @@
 ---
 title: Timber
 content:
-    items: '@self.children'
+    items:
+        '@taxonomy.topics':
+            - timber
     limit: 10
     order:
         by: date
@@ -20,4 +22,5 @@ continue_link_as_button: false
 feed:
     limit: 10
 ---
+
 
