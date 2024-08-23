@@ -23,7 +23,7 @@ feed:
     description: 'NEB academy'
     limit: 10
 child_type: item
-show_sidebar: true
+show_sidebar: false
 hero_scroll: false
 hide_git_sync_repo_link: false
 continue_link_as_button: false
