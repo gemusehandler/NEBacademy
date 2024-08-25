@@ -1,7 +1,7 @@
 ---
 hide_header: true
 hide_page_title: true
-show_sidebar: false
+show_sidebar: true
 hide_git_sync_repo_link: false
 modular_content:
     items: '@self.modular'
