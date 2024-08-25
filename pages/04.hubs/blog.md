@@ -33,4 +33,3 @@ sitemap:
     lastmod: '06-08-2024 16:49'
 ---
 
-**NEBA establishes Hubs that have regional coverage and/or expertise in specific topics, create a joint business plan and operational models, then link them through a digital platform that will serve as a matchmaker between learners and trainers, as well as an open directory and repository for NEBA certified training contents addressing bio-based, circular, regenerative, and long-life processes, concepts, and solutions with microcredentials available.**
