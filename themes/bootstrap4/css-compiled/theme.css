@@ -339,7 +339,7 @@ ul.pagination {
 		margin-bottom: 1rem; }
 	.callout-txt {
 		margin-right: 1rem; 
-		display: grid } }
+		display: table; } }
 
 @media only screen and (min-width: 960px) {
   .raw {
