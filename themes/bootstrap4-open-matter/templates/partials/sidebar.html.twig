@@ -22,56 +22,7 @@
 </div>
 {% endif %}
 
-{# display sidebar markdown page - hibbittsdesign.org #}
-{% if sidebar_page.header.position == 'top' or sidebar_page.header.position is empty %}
-  {% if sidebar_page_content is not empty %}
-    <div class="sidebar-content">
-      {{ sidebar_page_content|raw }}
-    </div>
-  {% endif %}
-{% endif %}
 
-{% if config.plugins.relatedpages.enabled and related_pages|length > 0 %}
-    <h2>{{ 'SIDEBAR.RELATED_POSTS.HEADLINE'|t }}</h2>
-    {% include 'partials/relatedpages.html.twig' %}
-{% endif %}
-
-{% if config.plugins.random.enabled %}
-<div class="sidebar-content">
-    <h2>{{ 'SIDEBAR.RANDOM_ARTICLE.HEADLINE'|t }}</h2>
-    <a class="btn" href="{{ base_url_relative }}/random"><i class="fa fa-retweet"></i> I'm Feeling Lucky!</a>
-</div>
-{% endif %}
-
-{% if config.plugins.taxonomylist.enabled %}
-<div class="sidebar-content">
-    <h2>{{ 'SIDEBAR.POPULAR_TAGS.HEADLINE'|t }}</h2>
-    {% include 'partials/taxonomylist.html.twig' with {'base_url':new_base_url, 'taxonomy':'topics'} %}
-</div>
-{% endif %}
-
-{% if config.plugins.taxonomylist.enabled %}
-<div class="sidebar-content">
-    <h2>{{ 'SIDEBAR.POPULAR_PARTNERS.HEADLINE'|t }}</h2>
-    {% include 'partials/taxonomylist.html.twig' with {'base_url':new_base_url, 'taxonomy':'partners'} %}
-</div>
-{% endif %}
-
-{% if config.plugins.archives.enabled %}
-<div class="sidebar-content">
-    <h2>{{ 'SIDEBAR.ARCHIVES.HEADLINE'|t }}</h2>
-	{% include 'partials/archives.html.twig' with {'base_url':new_base_url} %}
-</div>
-{% endif %}
-
-{# display sidebar markdown page - hibbittsdesign.org #}
-{% if sidebar_page.header.position == 'bottom' %}
-  {% if sidebar_page_content is not empty %}
-    <div class="sidebar-content">
-      {{ sidebar_page_content|raw }}
-    </div>
-  {% endif %}
-{% endif %}
 
 {% if config.plugins.feed.enabled %}
 <div class="sidebar-content">
