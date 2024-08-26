@@ -16,7 +16,7 @@ redirect_default_route: true
 
 **This platform serves as a matchmaker between learners and trainers, as well as an open directory and repository for NEBA-certified training content.**
 
-**The content addresses bio-based, circular, regenerative, and long-life processes, concepts, and solutions, with microcredentials available.**
+**The training content addresses bio-based, circular, regenerative, and long-life processes, concepts, and solutions. Participants are rewarded with microcredentials.**
 
 ## NEBAP Hub
 ---
