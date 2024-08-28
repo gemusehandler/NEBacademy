@@ -38,4 +38,4 @@ Listen to the President's opening speech at the NEB Festival in Brussels.
 
 [button label="Full speech text" url="https://ec.europa.eu/commission/presscorner/detail/en/SPEECH_24_1926"]
 
-![commission](commission.jpg "commission")
+![commission](commission.webp "commission")
