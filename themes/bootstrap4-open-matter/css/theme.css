@@ -35,7 +35,7 @@ a:hover:not(.btn):not(.badge):not(.navbar-brand):not(.nav-link), a:focus:not(.bt
   border-color: #3a8ddc!important;
 }
 */
-@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@800;900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Titillium+Web:ital,wght@0,300;0,400;0,600;0,700;1,300;1,400;1,600;1,700&display=swap");
 
 a:not(.btn, .badge, .navbar-brand, .dropdown-item) {
   color: #0374B5;
@@ -117,7 +117,7 @@ p {
 }
 
 .navbar-brand, a.nav-brand {
-  font-family: 'Montserrat', sans-serif !important;
+  font-family: 'Titillium+Web', sans-serif !important;
   font-size: 4.0rem;
   @media(max-width: 576px) {
 	font-size: 1.6rem;
@@ -139,12 +139,12 @@ p {
 
 h1, .h1 {
   font-size: 2.4rem;
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Titillium+Web', sans-serif;
 }
 
 h1.page-title {
   font-size: 4rem;
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Titillium+Web', sans-serif;
   border-bottom: 5px solid #2e1f5e !important;
   padding-bottom: 10px !important;
   margin-bottom: 30px !important;
@@ -168,7 +168,9 @@ h1.page-title {
 
 h2, .h2 {
   font-size: 1.6rem;
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Titillium+Web', sans-serif;
+  font-weight: 700;
+
 }
 
 h3, .h3 {
@@ -329,7 +331,7 @@ border-top-left-radius:3px;
 color: #ccc;
 display: inline-block;
 font-size: 11px;
-font-family: helvetica;
+font-family: "Titillium+Web";
 font-weight: 300;
 padding: 5px 8px;
 position: absolute;
