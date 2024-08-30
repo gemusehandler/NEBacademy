@@ -1,5 +1,5 @@
 ---
-title: 'NEB Academy launched'
+title: 'EC President Ursula von der Leyen Launches the NEB Academy'
 date: '14:47 24-06-2023'
 hide_page_title: false
 show_sidebar: true
@@ -25,7 +25,6 @@ sitemap:
     lastmod: '28-07-2024 15:10'
 ---
 
-## EC President Ursula von der Leyen Launches the NEB Academy
 **09.04.2024, Brussels BE**
 
 EC President Ursula von der Leyen, 9 April 2024: "I am proud that tomorrow we will officially launch the NewEuropeanBauhaus Academy. It will train a new generation of architects, engineers and construction workers. It will give them the knowledge and the skills they need to turn sustainable materials into beautiful spaces."
