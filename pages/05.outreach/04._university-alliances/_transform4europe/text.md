@@ -13,7 +13,7 @@ redirect_default_route: true
 ---
 
 ### [Transform4Europe](https://transform4europe.eu)
-Ten European universities have joined forces in the Transform4Europe Alliance, creating a common multilingual campus in order to take care of the future of our regions, countries and the whole of Europe.
+**Ten European universities have joined forces in the Transform4Europe Alliance, creating a common multilingual campus in order to take care of the future of our regions, countries and the whole of Europe.**
 
 Grant number: [101035805](https://cordis.europa.eu/project/id/101035805)<br />
 Coordinator: Saarland University, Germany<br />
