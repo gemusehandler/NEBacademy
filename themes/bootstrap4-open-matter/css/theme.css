@@ -151,7 +151,7 @@ h1, .h1 {
 h1.page-title {
   font-size: 4rem;
   font-family: 'Titillium+Web', sans-serif;
-  border-bottom: 5px solid #2e1f5e !important;
+  border-bottom: 1px solid #2e1f5e !important;
   padding-bottom: 10px !important;
   margin-bottom: 30px !important;
 
@@ -285,14 +285,27 @@ body {
     margin: 0px 0 0px!important;
 }
 
-.list-item list-blog-header {
-	padding-right: 1rem;
-	width: 50%;
-	}
+.list-item {
+    margin: 0px 0 0px!important;
+}
 	
 .list-item list-blog-padding {
 	padding-right: 1rem;
 	width: 50%;
+}
+
+.list-item list-blog-padding {
+	p {
+	font-size: 1rem;
+	font-weight: 300;
+	}
+}
+
+.list-item list-blog-padding {
+	p a {
+	font-size: 1rem;
+	font-weight: 300;
+	}
 }
 
 .creative-commons-license {

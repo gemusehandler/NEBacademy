@@ -1,5 +1,5 @@
 ---
-title: 'NEBA kick-off'
+title: 'NEB Academy Pioneer Hub in Slovenia launched'
 date: '10:32 04-10-2023'
 hide_page_title: false
 show_sidebar: true
@@ -24,7 +24,6 @@ hide_from_post_list: false
 continue_link: true
 ---
 
-## NEB Academy Pioneer Hub in Slovenia launched
 **03-04.04.2024, Izola SI**
 
 The NEB Academy is a flagship initiative on skills for sustainable construction of the European Year of Skills. The first Pioneer Hub is being launched by the University of Primorska in Slovenia together with various institutions across Europe.
