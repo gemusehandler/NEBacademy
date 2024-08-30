@@ -13,7 +13,7 @@ redirect_default_route: true
 ---
 
 ### [Habitable](https://habitable-cove.eu)
-**Alliance of Centers of Excellence in Vocational Training for a Sustainable Habitat**<br />
+**Alliance of Centers of Excellence in Vocational Training for a Sustainable Habitat addressing the  shortage of workers in the sector trained in the necessary digitalisation and green transition skills.**<br />
 Project number: [101104680](https://erasmus-plus.ec.europa.eu/projects/search/details/101104680)-HABITABLE-ERASMUS-EDU-2022-PEX-COVE<br />
 Period: 2023-2027<br />
 Budget: 3.9 M€<br />
