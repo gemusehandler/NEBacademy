@@ -338,7 +338,9 @@ ul.pagination {
 		margin-right: 1rem;
 		margin-bottom: 1rem; }
 	.callout-txt {
-		margin-right: 1rem; 
+		margin-right: 1rem;
+		padding-left: 0;
+		padding-right: 0;
 		display: table; } }
 
 @media only screen and (min-width: 960px) {

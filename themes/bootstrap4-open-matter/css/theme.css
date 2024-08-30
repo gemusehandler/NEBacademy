@@ -49,11 +49,13 @@ a:hover:not(.btn, .badge, .navbar-brand, .nav-link), a:focus:not(.btn, .badge, .
 p {
 	margin-bottom: 0.4;
     font-family: 'Titillium+Web', sans-serif;
+    font-weight: 300;
 }
 
 p a {
 	margin-bottom: 0.4;
     font-family: 'Titillium+Web', sans-serif;
+    font-weight: 300;
 }
 
 .page-link {
