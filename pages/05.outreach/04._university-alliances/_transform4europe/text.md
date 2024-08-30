@@ -12,7 +12,7 @@ visible: false
 redirect_default_route: true
 ---
 
-### [Transform4Europe](https://european-bioeconomy-university.eu)
+### [Transform4Europe](https://transform4europe.eu)
 
 Grant number: [101035805](https://cordis.europa.eu/project/id/101035805)<br />
 Coordinator: Saarland University, Germany<br />

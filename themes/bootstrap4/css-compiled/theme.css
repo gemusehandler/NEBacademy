@@ -315,7 +315,9 @@ ul.pagination {
     display: table;
     clear: both; }
   .callout .container {
-    display: inline-table; }
+    display: inline-table;
+    padding-left: 0px !important;
+	padding-right: 0px !important; }
   .callout .container h2 {
     padding-top: 1.25rem; }
   .callout .container img.float-md-left {
@@ -327,11 +329,6 @@ ul.pagination {
       margin-bottom: 1rem; }
       .callout .container img.float-md-left, .callout .container img.float-md-right {
         margin: 0 auto; } }
-
-.modular-row.callout container {
-	padding-left: 0px !important;
-	padding-right: 0px !important;
-}
 
 .container {
 	.callout-image {
