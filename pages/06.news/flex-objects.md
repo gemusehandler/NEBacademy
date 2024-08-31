@@ -25,4 +25,5 @@ flex:
 ---
 
 # News
+---
 Overview of the latest NEB-related developments in the wood and timber construction sector
