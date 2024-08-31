@@ -32,7 +32,7 @@ sitemap:
 title: Thuis
 ---
 
-# train, upskill & reskill
+# train • upskill • reskill
 ## the construction ecosystem for carbon neutral building
 
 The NEB Academy’s mission is to achieve a carbon-neutral, beautiful, sustainable, and inclusive transformation of the building sector.
