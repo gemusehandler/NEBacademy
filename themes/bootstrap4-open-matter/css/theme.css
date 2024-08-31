@@ -38,12 +38,12 @@ a:hover:not(.btn):not(.badge):not(.navbar-brand):not(.nav-link), a:focus:not(.bt
 @import url("https://fonts.googleapis.com/css2?family=Titillium+Web:ital,wght@0,300;0,400;0,600;0,700;1,300;1,400;1,600;1,700&display=swap");
 
 a:not(.btn, .badge, .navbar-brand, .dropdown-item) {
-  color: #0042aa;
+  color: #003180;
   text-decoration: none;
 }
 
 a:hover:not(.btn, .badge, .navbar-brand, .nav-link), a:focus:not(.btn, .badge, .navbar-brand, .nav-link) {
-  color: #035D91;
+  color: #032840;
 }
 
 p {
@@ -341,6 +341,7 @@ body {
 .creative-commons-license {
 	width: 100%;
 	display: inline-block;
+	font-size: 1rem;
 }
 
 ol.breadcrumb {

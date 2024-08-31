@@ -333,7 +333,8 @@ ul.pagination {
 .container {
 	.callout-image {
 		margin-right: 1rem;
-		margin-bottom: 1rem; }
+		margin-bottom: 1rem;
+		max-width: 50%; }
 	.callout-txt {
 		margin-right: 1rem;
 		padding-left: 0;
