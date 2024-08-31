@@ -29,7 +29,7 @@ hero_image: home.webp
 cache_enable: true
 sitemap:
     lastmod: '06-08-2024 10:08'
-title: Home
+title: 'NEB Academy'
 visible: false
 ---
 
