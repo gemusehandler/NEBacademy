@@ -17,4 +17,4 @@ redirect_default_route: true
 
 **However, transitioning from brick to bio-based materials is easier said than done. Architects, builders, and construction workers must learn new skills, adopt new techniques, and change their building practices. The New European Bauhaus Academy (NEB Academy) is here to help.**
 
-## The NEB Academy’s mission is to train, upskill, and reskill the construction ecosystem to achieve a carbon-neutral, beautiful, sustainable, and inclusive transformation of the building sector.
+**The NEB Academy’s mission is to train, upskill, and reskill the construction ecosystem to achieve a carbon-neutral, beautiful, sustainable, and inclusive transformation of the building sector.**
