@@ -16,7 +16,7 @@ redirect_default_route: true
 
 
 # Main steps and outcomes
-
+---
 ![NEBA project concept](/images/concept.webp)
 
 The NEBA Alliance’s open co-design is based on a mapping of the construction ecosystem to identify and onboard relevant stakeholders for the co-design process. Key steps of the NEBA Alliance project include:
