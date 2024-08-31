@@ -165,11 +165,11 @@ body {
   position: relative;
   display: flex;
   align-items: center;
-  justify-content: center;
+  justify-content: left;
   background-size: cover;
   background-position: center; }
   .hero.hero-fullscreen {
-    height: 100vh; }
+    height: 60vh; }
   .hero.hero-large {
     height: 45vh; }
   .hero.hero-medium {
