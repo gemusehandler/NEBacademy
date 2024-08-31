@@ -12,7 +12,7 @@ visible: false
 redirect_default_route: true
 ---
 
-**NEB Academy vision**
+## NEB Academy vision
 
 * In 2 years, the NEBA Alliance has built a self-sustainable, recognised pan-European training ecosystem of NEBA Hubs and pilot training activities.
 * In 5 years, the NEB Academy offering micro-credentials and other trainingactivities which are transferable throughout Europe in certain construction ecosystem professions to maintain current knowledge, upskill workers andshape EU policies.
