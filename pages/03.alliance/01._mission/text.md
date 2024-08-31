@@ -12,7 +12,7 @@ visible: false
 redirect_default_route: true
 ---
 
-The NEBA Alliance is a project consortium funded by the European Commission from 2024 to 2026. The main purpose is to create the conceptual and legal basis for the NEB Academy setup and to establish the initial network of Hubs and training infrastructures.
+## The NEBA Alliance is a project consortium funded by the European Commission from 2024 to 2026. The main purpose is to create the conceptual and legal basis for the NEB Academy setup and to establish the initial network of Hubs and training infrastructures.
 
 
 # Main steps and outcomes
