@@ -12,7 +12,7 @@ visible: false
 redirect_default_route: true
 ---
 
-## NEBA Associated Hubs
+# NEBA Associated Hubs
 ---
 The NEB Academy initiative has been launched by the EC to engage the wider education community in the construction sector. Several other Hubs are being created which are also committed to become part of NEB Academy. These include self-declared Hubs that are registered by signing the NEBA Pioneer Hubs Charter on the EC website and new Hubs that are being established under other co-funded EU projects.
 
