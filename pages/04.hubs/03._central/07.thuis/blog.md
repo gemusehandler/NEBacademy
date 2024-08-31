@@ -32,7 +32,7 @@ sitemap:
 title: Thuis
 ---
 
-# Create carbon neutral buildings
+# Building carbon neutral
 ## training, upskilling, and reskilling the construction ecosystem
 
 The NEB Academy’s mission is to achieve a carbon-neutral, beautiful, sustainable, and inclusive transformation of the building sector.
