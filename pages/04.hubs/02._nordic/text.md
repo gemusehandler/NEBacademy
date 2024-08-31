@@ -17,4 +17,3 @@ redirect_default_route: true
 [plugin:page-inject](/hubs/_nordic/_rise/)
 [plugin:page-inject](/hubs/_nordic/_aalto/)
 [plugin:page-inject](/hubs/_nordic/_eka/)
-[plugin:content-inject](/home/)
