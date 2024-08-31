@@ -12,7 +12,7 @@ visible: false
 redirect_default_route: true
 ---
 
-## Erasmus+ CoVEs addressing NEB
+# Erasmus+ CoVEs addressing NEB
 ---
 [plugin:page-inject](/outreach/_erasmus/_habitable/)
 [plugin:page-inject](/outreach/_erasmus/_buildskills/)
