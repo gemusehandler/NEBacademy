@@ -23,9 +23,9 @@ continue_link_as_button: false
 feed:
     limit: 10
 published: true
-media_order: 'home.webp,A.webp'
+media_order: 'home.webp,Aw.webp'
 hero_classes: hero-large
-hero_image: A.webp
+hero_image: Aw.webp
 cache_enable: true
 sitemap:
     lastmod: '06-08-2024 10:08'
