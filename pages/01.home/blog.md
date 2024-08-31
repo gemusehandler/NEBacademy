@@ -30,5 +30,6 @@ cache_enable: true
 sitemap:
     lastmod: '06-08-2024 10:08'
 title: Home
+visible: false
 ---
 
