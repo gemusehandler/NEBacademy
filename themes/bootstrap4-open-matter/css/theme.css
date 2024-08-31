@@ -150,6 +150,22 @@ h1, .h1 {
   font-family: 'Titillium+Web', sans-serif;
   margin-bottom: 1rem;
   margin-top: 3rem;
+
+  @media(max-width: 576px) {
+	font-size: 1.6rem;
+    }
+  @media(min-width: 576px) {
+	font-size: 1.6rem;
+    }
+  @media(min-width: 768px) {
+	font-size: 1.8rem;
+	}
+  @media(min-width: 922px) {
+	font-size: 2.0rem;
+	}
+  @media(min-width: 1200px) {
+	font-size: 2.4rem;
+	}
 }
 
 h1.page-title {
@@ -324,20 +340,25 @@ body {
 	width: 50%;
 }
 
-.list-item list-blog-padding {
+.list-blog-padding {
 	p {
-	font-size: 1rem;
+	font-size: 1rem !important;
 	font-weight: 300;
 	}
 }
 
-.list-item list-blog-padding {
+.list-blog-padding {
 	p a {
-	font-size: 1rem;
+	font-size: 1rem !important;
 	font-weight: 300;
 	}
 }
 
+.list-blog-header h1 {
+	p a {
+	font-weight: 600 !important;
+	}
+}
 .creative-commons-license {
 	width: 100%;
 	display: inline-block;
