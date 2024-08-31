@@ -12,8 +12,8 @@ visible: false
 redirect_default_route: true
 ---
 
-# A European Academy for skills in sustainable construction
-## Need
+## A European Academy for skills in sustainable construction
+### Need
 
 Accounting for around 40% of GHG emissions from building operations and an additional 10-20% from embodied emissions, the construction sector is one of the major contributors to the climate crisis, making it a priority target for the green transformation.
 
@@ -21,7 +21,7 @@ The urgency of the climate crisis requires accelerating the transfer and adoptio
 
 The need for skilled workers and educated professionals is a significant bottleneck for rethinking the built environment and the construction ecosystem and transform it towards a regenerative model.
 
-## Mission and Vision 
+### Mission and Vision 
 
 The [New European Bauhaus Academy](https://new-european-bauhaus.europa.eu/about/neb-academy_en) (NEBA), a flagship initiative of the European Commission on skills for sustainable construction, accelerates the up- and re-skilling of the current and future workforce to transition to a resilient domestic building construction sector.
 
