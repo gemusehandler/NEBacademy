@@ -12,6 +12,6 @@ visible: false
 redirect_default_route: true
 ---
 
-## University Alliances
+# University Alliances
 ---
 [plugin:page-inject](/outreach/_university-alliances/_transform4europe/)
