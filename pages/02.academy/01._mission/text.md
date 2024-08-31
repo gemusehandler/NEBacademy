@@ -12,7 +12,8 @@ visible: false
 redirect_default_route: true
 ---
 
-## A European Academy for skills in sustainable construction
+## The NEB Academy is poised to spearhead skill development for the Renovation Wave by engaging key stakeholders in construction, engineering, architecture, and planning. By connecting educators and trainers, the Academy aims to ensure a widespread impact across the entire construction ecosystem.
+
 ### Need
 
 Accounting for around 40% of GHG emissions from building operations and an additional 10-20% from embodied emissions, the construction sector is one of the major contributors to the climate crisis, making it a priority target for the green transformation.
