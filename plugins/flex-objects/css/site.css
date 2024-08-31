@@ -14,7 +14,7 @@
 
 #flex-objects ul li { display: inline-block; width: 33%; margin: 1rem 0; vertical-align: top; padding-right: 1rem;}
 
-#flex-objects ul li .entry-details .name { font-weight: bold; font-size: 120%; }
+#flex-objects ul li .entry-details .name { font-weight: 400; font-size: 100%; }
 
 #flex-objects ul li .entry-details p { margin: 0; }
 

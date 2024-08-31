@@ -24,7 +24,7 @@ feed:
     limit: 10
 published: true
 media_order: 'home.webp,Aw.webp'
-hero_classes: hero-large
+hero_classes: hero-fullscreen
 hero_image: Aw.webp
 cache_enable: true
 sitemap:
