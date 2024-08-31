@@ -17,7 +17,6 @@
 
 {% if config.plugins.simplesearch.enabled %}
 <div class="sidebar-content">
-    <h2>{{ 'SIDEBAR.SIMPLE_SEARCH.HEADLINE'|t }}</h2>
     {% include 'partials/simplesearch_searchbox.html.twig' %}
 </div>
 {% endif %}
@@ -27,7 +26,6 @@
 {% if config.plugins.feed.enabled %}
 <div class="sidebar-content">
   {% if page.template == 'blog' %}
-    <h2>{{ 'SIDEBAR.SYNDICATE.HEADLINE'|t }}</h2>
     <div class="btn-group">
         <a class="btn btn-warning" href="{{ feed_url }}.atom"><i class="fa fa-rss-square"></i> Atom 1.0</a>
         <a class="btn btn-warning" href="{{ feed_url }}.rss"><i class="fa fa-rss-square"></i> RSS</a>

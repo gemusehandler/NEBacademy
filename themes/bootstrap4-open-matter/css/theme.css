@@ -154,8 +154,9 @@ h1.page-title {
   font-size: 4rem;
   font-family: 'Titillium+Web', sans-serif;
   border-bottom: 1px solid #2e1f5e !important;
-  padding-bottom: 10px !important;
-  margin-bottom: 30px !important;
+  padding-bottom: 1rem !important;
+  margin-bottom: 3rem !important;
+  margin-top: 3rem !important;
 
   @media(max-width: 576px) {
 	font-size: 1.6rem;
