@@ -13,3 +13,4 @@ redirect_default_route: true
 ---
 
 ## The NEB Academy’s mission is to train, upskill, and reskill the construction ecosystem to achieve a carbon-neutral, beautiful, sustainable, and inclusive transformation of the building sector.
+# News
