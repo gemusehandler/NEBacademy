@@ -8,7 +8,7 @@ content:
     limit: 5
     pagination: '1'
 hide_page_title: false
-show_sidebar: true
+show_sidebar: false
 hide_git_sync_repo_link: false
 sitemap:
     lastmod: '28-07-2024 16:59'
