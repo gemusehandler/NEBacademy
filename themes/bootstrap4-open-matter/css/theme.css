@@ -402,7 +402,8 @@ h4, .h4, h5, .h5 {
 }
 
 .header h1 {
-  text-shadow: 1px 1px 4px rgba(34,34,34,0.6);
+  font-size: 5.0rem;
+  color: #000;
 }
 
 .card-header .fa {
