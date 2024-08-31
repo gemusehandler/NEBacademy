@@ -38,7 +38,7 @@ a:hover:not(.btn):not(.badge):not(.navbar-brand):not(.nav-link), a:focus:not(.bt
 @import url("https://fonts.googleapis.com/css2?family=Titillium+Web:ital,wght@0,300;0,400;0,600;0,700;1,300;1,400;1,600;1,700&display=swap");
 
 a:not(.btn, .badge, .navbar-brand, .dropdown-item) {
-  color: #79C49E;
+  color: #0042aa;
   text-decoration: none;
 }
 
