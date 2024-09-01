@@ -2,7 +2,7 @@
 title: Funded
 body_classes: modular
 date: '15:32 16-08-2024'
-image_align: right
+image_align: left
 hide_page_title: false
 show_sidebar: true
 hide_git_sync_repo_link: false
