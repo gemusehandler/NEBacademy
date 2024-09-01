@@ -564,6 +564,26 @@ body.chromeless {
     display: none;
 }
 
+.topic {
+
+  @media(max-width: 576px) {
+	width: 100%;
+    }
+  @media(min-width: 576px) {
+	width: 100%;
+    }
+  @media(min-width: 768px) {
+	width: 50%;
+	}
+  @media(min-width: 922px) {
+	width: 25%;
+	}
+  @media(min-width: 1200px) {
+	width: 25%;
+	}
+}
+
+
 div.keeptogether {
    display: inline-block;
    width: 100%;
