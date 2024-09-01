@@ -11,6 +11,9 @@ features:
         header: null
         text: null
 image_align: left
+header_image_file: /outreach/_eu_outreach/_boku/200-BOKU.webp
+feed:
+    limit: 10
 ---
 
 Your page content goes here.
