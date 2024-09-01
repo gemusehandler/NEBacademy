@@ -10,6 +10,7 @@ features:
         icon: null
         header: null
         text: null
+image_align: left
 ---
 
 Your page content goes here.
