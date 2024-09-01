@@ -10,6 +10,7 @@ features:
         header: null
         text: null
 image_align: left
+width: 10%
 header_image_file: /outreach/_eu_outreach/_boku/200-BOKU.webp
 feed:
     limit: 10
