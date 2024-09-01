@@ -18,3 +18,4 @@ visible: false
 [plugin:page-inject](/footer/_funded/)
 [plugin:page-inject](/footer/_coordinated/)
 [plugin:content-inject](/footer/logo-block/)
+[plugin:content-inject](/footer/logo-block/)
