@@ -200,7 +200,7 @@ ol.breadcrumb {
   margin: 15px 0; }
 
 .sidebar-content {
-  margin-bottom: 50px; 
+  margin-top: 3rem;
   p {
   font-size: 1rem;
   }
@@ -335,7 +335,8 @@ ul.pagination {
 	.callout-image {
 		margin-right: 1rem;
 		margin-bottom: 1rem;
-		max-width: 50%; }
+		margin-top: 1rem;
+		max-width: 33%; }
 	.callout-txt {
 		margin-right: 1rem;
 		padding-left: 0;
