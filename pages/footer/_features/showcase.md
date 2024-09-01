@@ -15,6 +15,8 @@ feed:
     limit: 10
 published: true
 header_image: '1'
+sitemap:
+    lastmod: '01-09-2024 06:48'
 ---
 
 Your page content goes here.
