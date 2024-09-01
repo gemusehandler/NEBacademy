@@ -1,5 +1,5 @@
 ---
-title: Logos
+title: Logo-block
 date: '09:06 01-09-2024'
 hide_page_title: false
 show_sidebar: true
