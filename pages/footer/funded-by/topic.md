@@ -5,6 +5,7 @@ show_sidebar: true
 hide_git_sync_repo_link: false
 sitemap:
     lastmod: '01-09-2024 09:24'
+body_classes: '2'
 ---
 
 **Funded by the European Union.** 
