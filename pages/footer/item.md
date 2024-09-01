@@ -13,9 +13,13 @@ sitemap:
     lastmod: '08-08-2024 12:01'
 published: true
 visible: false
+hide_from_post_list: false
+continue_link: true
+feed:
+    limit: 10
 ---
 
 [plugin:page-inject](/footer/_funded/)
 [plugin:page-inject](/footer/_coordinated/)
-[plugin:content-inject](/footer/logo-block/)
+[plugin:page-inject](/footer/logo-block/)
 [plugin:content-inject](/footer/logo-block/)
