@@ -43,7 +43,7 @@ a:not(.btn, .badge, .navbar-brand, .dropdown-item) {
 }
 
 a:hover:not(.btn, .badge, .navbar-brand, .nav-link), a:focus:not(.btn, .badge, .navbar-brand, .nav-link) {
-  color: #032840;
+  color: #004ECC;
 }
 
 p {
