@@ -384,6 +384,10 @@ ol.breadcrumb {
   margin-left: -18px;
 }
 
+ul li {
+  font-weight: 300;
+}
+
 .image-credit-wrapper {
 overflow: hidden;
 position: relative;
@@ -545,22 +549,37 @@ figure.caption-right figcaption {
 	  @media(max-width: 576px) {
 		width: 100%;
 		float: left;
+		.callout-image {
+			max-width: 100%;
+			}
 		}
 	  @media(min-width: 576px) {
-		width: 100%;
+		width: 50%;
 		float: left;
+		.callout-image {
+			max-width: 33%;
+			}
 		}
 	  @media(min-width: 768px) {
 		width: 50%;
 		float: left;
+		.callout-image {
+			max-width: 33%;
+			}
 		}
 	  @media(min-width: 922px) {
 		width: 50%;
 		float: left;
+		.callout-image {
+			max-width: 33%;
+			}
 		}
 	  @media(min-width: 1200px) {
-		width: 50%;
+		width: 33%;
 		float: left;
+		.callout-image {
+			max-width: 33%;
+			}
 		}
 	}
 }
