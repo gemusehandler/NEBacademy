@@ -23,9 +23,9 @@ continue_link_as_button: false
 feed:
     limit: 10
 published: true
-media_order: 'timber_on_top_d.jpg,innorenew.jpg'
+media_order: 'innorenew.jpg,home.webp,wooda.webp'
 hero_classes: hero-large
-hero_image: home.webp
+hero_image: wooda.webp
 cache_enable: true
 sitemap:
     lastmod: '06-08-2024 10:08'
