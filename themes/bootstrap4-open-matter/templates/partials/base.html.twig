@@ -132,13 +132,23 @@
                   </div>
                 {% endif %}
                 {# use footer folder page for content - hibbittsdesign.org #}
-                <div class="text-muted">
-                  {% if (page.header.git_sync_repo_link_display is defined and page.header.git_sync_repo_link_display == 'footer' ) or (( theme_var('display_of_git_sync_repo_link') == 'footer' and page.header.git_sync_repo_link_display is not defined ) and not (page.header.hide_git_sync_repo_link)) %}
-                    <p>{% include 'partials/git_sync_repo_link.html.twig' %}</p>
-                  {% endif %}
-                  {% if theme_var('git_sync_edit_theme_link_location') == 'footer' %}
-                    <p>{% include 'partials/git_sync_theme_link.html.twig' %}</p>
-                  {% endif %}
+		{% if config.plugins.feed.enabled %}
+		 <div class="footer-content">
+             {% if (page.header.git_sync_repo_link_display is defined and page.header.git_sync_repo_link_display == 'footer' ) or (( theme_var('display_of_git_sync_repo_link') == 'footer' and page.header.git_sync_repo_link_display is not defined ) and not (page.header.hide_git_sync_repo_link)) %}
+        		<p>{% include 'partials/git_sync_repo_link.html.twig' %}</p>
+                {% endif %}
+                {% if theme_var('git_sync_edit_theme_link_location') == 'footer' %}
+                <p>{% include 'partials/git_sync_theme_link.html.twig' %}</p>
+                {% endif %}
+  		{% if page.template == 'blog' %}
+  		 <div class="btn-group">
+    		<a class="btn btn-warning" href="{{ feed_url }}.atom"><i class="fa fa-rss-square"></i> Atom 1.0</a>
+        	<a class="btn btn-warning" href="{{ feed_url }}.rss"><i class="fa fa-rss-square"></i> RSS</a>
+    	 </div>
+  		{% endif  %}
+	     </div>
+		{% endif %}
+                <div class="text-muted">             
                   {% if footer_content %}
                     {{ footer_content|raw }}
                   {% endif %}

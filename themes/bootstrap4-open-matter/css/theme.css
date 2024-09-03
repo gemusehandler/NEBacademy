@@ -240,6 +240,14 @@ h6, .h6 {
   font-size: 1 rem;
 }
 
+.footer-content {
+  display: flex;
+  a.newwindow.external-link {
+  padding-right: 2rem;
+  font-size: 1rem;
+  }
+}
+
 .hidden {
   position:absolute;
   left:-10000px;
