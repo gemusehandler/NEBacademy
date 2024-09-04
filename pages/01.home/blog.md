@@ -23,7 +23,7 @@ continue_link_as_button: false
 feed:
     limit: 10
 published: true
-media_order: 'innorenew.jpg,home.webp,nebadiffusion.webp,nebiffusion.webp'
+media_order: 'innorenew.jpg,home.webp'
 hero_classes: hero-large
 hero_image: nebadiffusion.webp
 cache_enable: true
