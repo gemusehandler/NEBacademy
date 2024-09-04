@@ -25,7 +25,7 @@ feed:
 published: true
 media_order: 'home.webp,3bb3e034-4963-4d8a-94cb-3cae5ff8c878.jpg'
 hero_classes: hero-large
-hero_image: neba-diffusion.webp
+hero_image: 3bb3e034-4963-4d8a-94cb-3cae5ff8c878.jpg
 cache_enable: true
 sitemap:
     lastmod: '06-08-2024 10:08'
