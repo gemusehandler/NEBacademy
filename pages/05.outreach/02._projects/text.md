@@ -12,7 +12,7 @@ visible: false
 redirect_default_route: true
 ---
 
-# NEB Academy Hub Projects
+## NEB Academy Hub Projects
 ---
 [plugin:page-inject](/outreach/_projects/_be-wooden/)
 [plugin:page-inject](/outreach/_projects/_digineb/)
