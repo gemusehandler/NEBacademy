@@ -28,8 +28,9 @@ hero_scroll: false
 hide_git_sync_repo_link: false
 continue_link_as_button: false
 hero_classes: hero-large
-hero_image: academy.webp
+hero_image: constructionworker.webp
 sitemap:
     lastmod: '06-08-2024 16:49'
+media_order: 'academy.webp,constructionworker.webp'
 ---
 
