@@ -28,9 +28,9 @@ hero_scroll: false
 hide_git_sync_repo_link: false
 continue_link_as_button: false
 hero_classes: hero-large
-hero_image: construction-diffusion.webp
+hero_image: e62bbc0f-6160-4190-a8ae-14a4c986c7b1.jpg
 sitemap:
     lastmod: '06-08-2024 16:49'
-media_order: academy.webp
+media_order: 'academy.webp,e62bbc0f-6160-4190-a8ae-14a4c986c7b1.jpg'
 ---
 
