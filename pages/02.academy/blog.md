@@ -31,6 +31,6 @@ hero_classes: hero-large
 hero_image: constructionworker.webp
 sitemap:
     lastmod: '06-08-2024 16:49'
-media_order: 'academy.webp,constructionworker.webp'
+media_order: academy.webp
 ---
 
