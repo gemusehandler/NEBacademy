@@ -28,8 +28,9 @@ hero_scroll: true
 hide_git_sync_repo_link: false
 continue_link_as_button: false
 hero_classes: hero-large
-hero_image: allianc.webp
+hero_image: blm-diffusion.webp
 sitemap:
     lastmod: '19-08-2024 08:15'
+media_order: 'allianc.webp,blm-diffusion.webp'
 ---
 
