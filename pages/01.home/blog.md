@@ -23,9 +23,9 @@ continue_link_as_button: false
 feed:
     limit: 10
 published: true
-media_order: 'home.webp,3bb3e034-4963-4d8a-94cb-3cae5ff8c878.jpg,b4083eb1-4fc2-4e59-81a3-8041f4270542.jpg'
+media_order: 'home.webp,b4083eb1-4fc2-4e59-81a3-8041f4270542.jpg,d6b1034a-1c45-4988-8995-1d4e11528c68.jpg'
 hero_classes: hero-large
-hero_image: b4083eb1-4fc2-4e59-81a3-8041f4270542.jpg
+hero_image: d6b1034a-1c45-4988-8995-1d4e11528c68.jpg
 cache_enable: true
 sitemap:
     lastmod: '06-08-2024 10:08'
