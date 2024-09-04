@@ -12,7 +12,7 @@ visible: false
 redirect_default_route: true
 ---
 
-# Supporters of NEBA
+## Supporters of NEBA
 ---
 [plugin:page-inject](/outreach/_supporters/_resilientwood/)
 [plugin:page-inject](/outreach/_supporters/_wood4bauhaus/)
