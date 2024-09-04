@@ -12,7 +12,7 @@ visible: false
 redirect_default_route: true
 ---
 
-# Building and Renovation Projects
+## Building and Renovation Projects
 ---
 [plugin:page-inject](/outreach/_building/_aegir/)
 [plugin:page-inject](/outreach/_building/_basajaun/)
