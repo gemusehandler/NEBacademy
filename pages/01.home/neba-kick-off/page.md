@@ -22,6 +22,7 @@ sitemap:
     lastmod: '28-07-2024 15:02'
 hide_from_post_list: false
 continue_link: true
+body_classes: modular
 ---
 
 **03-04.04.2024, Izola SI**
