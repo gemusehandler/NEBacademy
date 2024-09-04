@@ -28,7 +28,7 @@ hero_scroll: false
 hide_git_sync_repo_link: false
 continue_link_as_button: false
 hero_classes: hero-large
-hero_image: outreach.webp
+hero_image: 3bb3e034-4963-4d8a-94cb-3cae5ff8c878.jpg
 sitemap:
     lastmod: '06-08-2024 16:49'
 ---
