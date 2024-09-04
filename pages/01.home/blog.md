@@ -23,7 +23,7 @@ continue_link_as_button: false
 feed:
     limit: 10
 published: true
-media_order: 'home.webp,b4083eb1-4fc2-4e59-81a3-8041f4270542.jpg,home@2x.jpg'
+media_order: 'home.webp,b4083eb1-4fc2-4e59-81a3-8041f4270542.jpg,home.webp'
 hero_classes: hero-large
 hero_image: home.jpg
 cache_enable: true
