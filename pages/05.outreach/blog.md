@@ -34,4 +34,4 @@ sitemap:
 media_order: 'outreach.webp,a4f507b3-35cb-471e-b0f0-85efa4a6dc03.webp'
 ---
 
-# New<br /> European<br /> Bauhaus<br /> Academy<br />
+![NEBA_LOGO_V_WHITE](NEBA_LOGO_V_WHITE.svg "NEBA_LOGO_V_WHITE")# New<br /> European<br /> Bauhaus<br /> Academy<br />
