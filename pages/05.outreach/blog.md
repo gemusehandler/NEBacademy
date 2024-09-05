@@ -34,7 +34,4 @@ sitemap:
 media_order: 'outreach.webp,a4f507b3-35cb-471e-b0f0-85efa4a6dc03.webp'
 ---
 
-# New
-# European
-# Bauhaus
-# Academy
+# New<br /> European<br /> Bauhaus<br /> Academy<br />
