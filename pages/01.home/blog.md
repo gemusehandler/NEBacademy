@@ -23,7 +23,7 @@ continue_link_as_button: false
 feed:
     limit: 10
 published: true
-media_order: home.webp
+media_order: 'home.webp,innoreneww.webp'
 hero_classes: hero-large
 hero_image: innoreneww.webp
 cache_enable: true
