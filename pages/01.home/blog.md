@@ -23,7 +23,7 @@ continue_link_as_button: false
 feed:
     limit: 10
 published: true
-media_order: 'home.webp,innoreneww.webp'
+media_order: 'home.webp,innoreneww.webp,NEBA_LOGO_V_WHITE.webp,NEBA_LOGO_V_WHITE_outline.webp'
 hero_classes: hero-large
 hero_image: innoreneww.webp
 cache_enable: true
@@ -33,4 +33,4 @@ title: 'New European Bauhaus Academy'
 visible: false
 ---
 
-![NEBA_LOGO_V_WHITE](NEBA_LOGO_V_WHITE.webp "NEBA_LOGO_V_WHITE")
+![NEBA_LOGO_V_WHITE_outline](NEBA_LOGO_V_WHITE_outline.webp "NEBA_LOGO_V_WHITE_outline")
