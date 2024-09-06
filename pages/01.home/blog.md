@@ -25,7 +25,7 @@ feed:
 published: true
 media_order: home.webp
 hero_classes: hero-large
-hero_image: home.webp
+hero_image: innoreneww.webp
 cache_enable: true
 sitemap:
     lastmod: '06-08-2024 10:08'
