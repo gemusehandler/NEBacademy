@@ -245,6 +245,20 @@ h6, .h6 {
   }
 }
 
+.yellow {
+	.main-content {
+		.container {
+			.row {
+				.col-md-8.blog-main {
+				padding: 2rem;
+				border-radius: 2rem;
+				background-color: #F8EEA9;
+				}
+			}
+		}
+	}
+}
+
 .hidden {
   position:absolute;
   left:-10000px;
