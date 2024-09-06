@@ -33,3 +33,4 @@ title: 'New European Bauhaus Academy'
 visible: false
 ---
 
+![NEBA_LOGO_V_WHITE](NEBA_LOGO_V_WHITE.webp "NEBA_LOGO_V_WHITE")
