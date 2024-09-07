@@ -241,11 +241,18 @@ h6, .h6 {
   display: flex;
   a.newwindow.external-link {
   padding-right: 3rem;
-  font-size: 0.8rem;
+  font-size: 1.0rem;
+  }
+  .callout-txt {
+  font-size: 0.8rem;  
   }
 }
 
 .yellow {
+	body {
+	background-color: #FFF6AB;
+	}
+
 	h1.page-title {
 	font-weight: 700;
 	color: #96D5F2;
@@ -573,7 +580,7 @@ figure.caption-right figcaption {
   position: relative;
   height: auto!important;
   padding: 1em;
-  diplay: inline-block;
+  display: inline-block;
 	.modular-row.callout {
 	  @media(max-width: 576px) {
 		width: 100%;

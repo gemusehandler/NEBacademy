@@ -31,5 +31,6 @@ sitemap:
     lastmod: '06-08-2024 10:08'
 title: 'New European Bauhaus Academy'
 visible: false
+body_classes: yellow
 ---
 
