@@ -255,10 +255,9 @@ h6, .h6 {
 	color: #96D5F2;
 	}
 
-	.header {
-		.hero { margin: 2rem;
-				border-radius: 1rem;
-		}
+	.hero.hero-large { 
+	  margin: 2rem;
+	  border-radius: 1rem;
 	}
 	.main-content {
 		.container {
