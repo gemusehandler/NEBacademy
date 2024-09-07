@@ -243,9 +243,6 @@ h6, .h6 {
   padding-right: 3rem;
   font-size: 1.0rem;
   }
-  .callout-txt {
-  font-size: 0.8rem;  
-  }
 }
 
 .yellow {
@@ -582,6 +579,9 @@ figure.caption-right figcaption {
   height: auto!important;
   padding: 1em;
   display: inline-block;
+	.callout-txt {
+	font-size: 0.8rem;  
+	}
 	.modular-row.callout {
 	  @media(max-width: 576px) {
 		width: 100%;
