@@ -19,7 +19,7 @@ Trust in the training contents and their quality will be ensured through NEBA Al
 Over time, the up- and re-skilling of workers will accelerate the decarbonisation of the built environment and reduce GHG emissions from buildings.
 
 
-### Target groups
+## Target groups
 **TG1 - Education, training and academia**
 
 TG1 is the main target group of institutions that can become members/partners and contributors of the NEBA. Based on the ‘train-the-trainers’ approach, they will be direct users of NEBA training courses and materials, and they will thus reach the other TGs 2, 3 & 4 within their national and regional setting. Contents are co-created to suit specific needs of their users.
