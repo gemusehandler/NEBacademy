@@ -24,7 +24,6 @@ flex:
     directory: news
 ---
 
-![Alex_de_Rijke_Sliding_House_Marsh_Morgan](Alex_de_Rijke_Sliding_House_Marsh_Morgan.webp "Alex_de_Rijke_Sliding_House_Marsh_Morgan")
 # News
 ---
 Overview of the latest NEB-related developments in the wood and timber construction sector
