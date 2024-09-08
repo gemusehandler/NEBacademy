@@ -27,9 +27,9 @@ iconColor="white"]
 { "lat":  51.9989558827869,  "lng": 4.376116626482194, "text": 8, "markerColor": "yellow" },
 { "lat":  41.39664687118305,  "lng": 2.194397868393047, "text": 9, "markerColor": "green" },
 { "lat":  44.40367350091898,  "lng": 8.935093068502935, "text": 10, "markerColor": "green" },
-{ "lat":  50.83946352113498,  "lng": 4.371969268761283, "text": 11, "markerColor": "cadetblue" },
-{ "lat":  50.86202202769148,  "lng": 4.367596497597833, "text": 12, "markerColor": "cadetblue" },
-{ "lat":  48.2365441631693,  "lng": 16.336970026324305, "text": 13, "markerColor": "cadetblue" },
+{ "lat":  50.83946352113498,  "lng": 4.371969268761283, "text": 11, "markerColor": "orange" },
+{ "lat":  50.86202202769148,  "lng": 4.367596497597833, "text": 12, "markerColor": "orange" },
+{ "lat":  48.2365441631693,  "lng": 16.336970026324305, "text": 13, "markerColor": "orange" },
 { "lat":  41.77164677602447,  "lng": -2.4883245315936264, "text": 14, "markerColor": "green" }]
 [/a-markers]
 [/map-leaflet]
