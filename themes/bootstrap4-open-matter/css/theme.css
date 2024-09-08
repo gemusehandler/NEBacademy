@@ -362,10 +362,9 @@ body {
 
 .list-item {
     margin: 0px 0 0px!important;
-}
-
-.list-item {
-    margin: 0px 0 0px!important;
+    padding: 2rem;
+    border-radius: 1rem;
+    background-color: #CCEFFF;
 }
 	
 .list-item list-blog-padding {
