@@ -17,10 +17,18 @@ iconColor="white"]
 [{ "lat": 37.7749, "lng": -122.4194, "icon": "home", "title": "Home Position" } ]
 [/a-markers]
 [a-markers icon=""]
-[  { "lat": 51.505,  "lng": -0.09 , "text": 1, "draggable": true  },
-{ "lat":  51.515,  "lng": -0.1 , "text": 2, "markerColor": "cadetblue" },
-{ "lat":   51.515,  "lng": -0.14, "text": 3, "spin": true },
-{ "lat":   51.505,  "lng": 0, "text": 4, "spin": false },
-{ "lat":   51.525,  "lng": -0.01, "icon": "coffee", "markerColor": "red", "title": "Lovely bistro"}]
+[  { "lat": 45.54808305229101,  "lng": 13.729385308830699, "text": 1, "markerColor": "cadetblue" },
+{ "lat": 48.1898929897584,  "lng": 16.3687454821444, "text": 2, "markerColor": "cadetblue" },
+{ "lat":  51.75413862106606,  "lng": 19.45064115530726, "text": 3, "markerColor": "cadetblue" },
+{ "lat":  57.71682803439867,  "lng": 12.892823569069176, "text": 4, "markerColor": "cadetblue" },
+{ "lat":  59.44257587456566,  "lng": 24.741152797986697, "text": 5, "markerColor": "cadetblue" },
+{ "lat":  52.46478344499874,  "lng": 13.33261379766683, "text": 6, "markerColor": "cadetblue" },
+{ "lat":  51.9989558827869,  "lng": 4.376116626482194, "text": 7, "markerColor": "cadetblue" },
+{ "lat":  41.39664687118305,  "lng": 2.194397868393047, "text": 8, "markerColor": "cadetblue" },
+{ "lat":  44.40367350091898,  "lng": 8.935093068502935, "text": 9, "markerColor": "cadetblue" },
+{ "lat":  50.83946352113498,  "lng": 4.371969268761283, "text": 10, "markerColor": "cadetblue" },
+{ "lat":  50.86202202769148,  "lng": 4.367596497597833, "text": 11, "markerColor": "cadetblue" },
+{ "lat":  48.2365441631693,  "lng": 16.336970026324305, "text": 12, "markerColor": "cadetblue" },
+{ "lat":  41.77164677602447,  "lng": -2.4883245315936264, "text": 13, "markerColor": "cadetblue" }]
 [/a-markers]
 [/map-leaflet]
