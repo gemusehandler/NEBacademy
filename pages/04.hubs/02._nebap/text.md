@@ -9,7 +9,7 @@ feed:
 image_align: right
 visible: false
 redirect_default_route: true
-body_classes: yellow
+body_classes: modular
 ---
 
 ## NEBAP Hub
