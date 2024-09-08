@@ -32,6 +32,7 @@ hero_image: Alex_de_Rijke_Endless_Stair_dRMMStudio.webp
 sitemap:
     lastmod: '06-08-2024 16:49'
 media_order: 'NEBA_LOGO_WIT_outline.webp,Alex_de_Rijke_Endless_Stair_dRMMStudio.webp'
+body_classes: yellow
 ---
 
 ![NEBA_LOGO_WIT_outline](NEBA_LOGO_WIT_outline.webp?resize=360,360  "NEBA_LOGO_WIT_outline")
