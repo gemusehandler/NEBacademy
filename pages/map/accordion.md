@@ -10,4 +10,12 @@ sitemap:
     lastmod: '08-09-2024 09:27'
 ---
 
-{"title": "popup text", "lat": 122.222, "lng": 22.9, "markerColor": "red" , "icon": "coffee" }
+[map-leaflet lat=51.505 lng=-0.09 zoom=13 mapname=neighbourhood style=neighbourhood]
+[a-markers markerColor="darkblue"
+iconColor="white"]
+[{ "lat": 37.7749, "lng": -122.4194, "icon": "home", "title": "Home Position" } ]
+[/a-markers]
+[a-markers icon=""]
+[  {"title": "popup text", "lat": 122.222, "lng": 22.9, "markerColor": "red" , "icon": "coffee" }]
+[/a-markers]
+[/map-leaflet]
