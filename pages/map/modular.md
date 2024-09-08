@@ -20,7 +20,7 @@ iconColor="white"]
 [
 { "lat": 45.54812965514584,  "lng": 13.729376838060402, "text": 1, "draggable": true  },
 { "lat":  48.1898929897584,  "lng": 16.3687454821444, "text": 2, "markerColor": "cadetblue" },
-{ "lat":  48.1898929897584,  "lng": 16.3687454821444, "text": 3, "markerColor": "cadetblue" },
+{ "lat":  51.75413862106606,  "lng": 19.45064115530726, "text": 3, "markerColor": "cadetblue" },
 { "lat":  48.1898929897584,  "lng": 16.3687454821444, "text": 4, "markerColor": "cadetblue" },
 { "lat":  48.1898929897584,  "lng": 16.3687454821444, "text": 5, "markerColor": "cadetblue" },
 { "lat":  48.1898929897584,  "lng": 16.3687454821444, "text": 6, "markerColor": "cadetblue" },
