@@ -77,5 +77,7 @@ jQuery(document).ready(function () {
           iconColor: 'white'
                     , icon: 'coffee'                    })
           , title: "Lovelybistro"                  }).addTo(map);
+
+
 });
 {/assets}
