@@ -31,7 +31,8 @@ hero_classes: hero-large
 hero_image: Alex_de_Rijke_Hastings_Pier_dRMMStudio.webp
 sitemap:
     lastmod: '06-08-2024 16:49'
-media_order: 'NEBA_LOGO_WIT_outline.webp,hub.webp,female-senior.webp,Alex_de_Rijke_Hastings_Pier_dRMMStudio.webp'
+media_order: 'NEBA_LOGO_WIT_outline.webp,NEBA_LOGO_WIT_outline.svg,hub.webp,female-senior.webp,Alex_de_Rijke_Hastings_Pier_dRMMStudio.webp'
 ---
 
 ![NEBA_LOGO_WIT_outline](NEBA_LOGO_WIT_outline.webp?forceResize=500,500 "NEBA_LOGO_WIT_outline")
+![NEBA_LOGO_WIT_outline](NEBA_LOGO_WIT_outline.svg "NEBA_LOGO_WIT_outline")
