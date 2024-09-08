@@ -34,4 +34,4 @@ sitemap:
 media_order: 'NEBA_LOGO_WIT_outline.webp,Alex_de_Rijke_Endless_Stair_dRMMStudio.webp'
 ---
 
-![NEBA_LOGO_WIT_outline](NEBA_LOGO_WIT_outline.webp?resize=400,400  "NEBA_LOGO_WIT_outline")
+![NEBA_LOGO_WIT_outline](NEBA_LOGO_WIT_outline.webp?resize=360,360  "NEBA_LOGO_WIT_outline")
