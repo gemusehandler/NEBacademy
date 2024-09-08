@@ -377,6 +377,9 @@ body {
 	font-size: 1rem !important;
 	font-weight: 300;
 	}
+	hr {
+	dislay: none;
+	}
 }
 
 .list-blog-padding {
@@ -388,8 +391,12 @@ body {
 
 .list-blog-header h1 {
 	p a {
-	font-weight: 600 !important;
+	font-weight: 700 !important;
+	margin-top:0;
 	}
+}
+.list-blog-header img {
+	border-radius: 1rem;
 }
 .creative-commons-license {
 	width: 100%;
