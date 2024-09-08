@@ -10,7 +10,6 @@ sitemap:
     lastmod: '08-09-2024 09:27'
 ---
 
-# London Neighbourhoods [test]
 [map-leaflet lat=50.08647573612876 lng=14.411478961807783 zoom=4 mapname=neighbourhood style=neighbourhood]
 [a-markers markerColor="darkblue"
 iconColor="white"]
