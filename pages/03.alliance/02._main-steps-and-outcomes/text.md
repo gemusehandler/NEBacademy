@@ -48,15 +48,3 @@ The NEBA Hubs will cover a broad range of competencies in the fields of interest
 The detailed characterisation of courses based on course syllabi and various classifications (thematic, geographical, type, target groups, level, language, etc) will provide rich metadata and search options for learners to find suitable training offers that match their needs. This openly accessible and carefully curated course listings will decisively enhance the awareness and reach of all included training providers to target groups all over Europe.
 
 A robust framework of criteria, recognition and quality assurance mechanisms will be developed for NEB Academy members, both organisations and individual trainers who deliver specific training modules and pedagogies in the NEBA Hubs. The label ‘NEB Academy member’ is equivalent to micro-credentials, yet independent of any national accreditation systems, but will reflect EU rules and the values and objectives of the NEB. The label will serve to recognize and support frontrunners in training, skilling across Europe.
-
-# NEBA Alliance consortium
----
-The NEBA Alliance consortium involves a diverse group of 14 partners from 11 different EU countries. They form the initial groups of the following Hubs which will be established by the Alliance. The partner descriptions can be found under the Hub page.
-
-* NEBAP Hub (already established in 2023 by University of Primorska and now evolved by satellites at TUL and Holzbau Austria)
-* North Hub
-* Central Hub
-* South Hub
-* EU Outreach Hub
-
-![NEBA partner map](/images/neba_hubs.webp)
