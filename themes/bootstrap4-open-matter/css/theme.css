@@ -251,7 +251,7 @@ h6, .h6 {
 }
 
 .yellow {
-	body {
+	.footer {
 	background-color: #FFF6AB;
 	}
 
@@ -264,10 +264,12 @@ h6, .h6 {
 		.container {
 			.row {
 				.col-md-8.blog-main {
-				padding: 0 2rem;
-				margin-bottom: 2rem;
-				border-radius: 1rem;
-				background-color: #F8EEA9;
+					.modular-row.callout {
+					padding: 0 2rem;
+					margin-bottom: 2rem;
+					border-radius: 1rem;
+					background-color: #F8EEA9;
+					}
 				}
 			}
 		}
@@ -361,7 +363,7 @@ body {
 }
 
 .list-item {
-    margin: 0px 0 0px!important;
+    margin: 0rem 0rem 1rem 0rem!important;
     padding: 2rem;
     border-radius: 1rem;
     background-color: #CCEFFF;
@@ -378,7 +380,7 @@ body {
 	font-weight: 300;
 	}
 	hr {
-	dislay: none;
+	display: none;
 	}
 }
 
@@ -390,7 +392,7 @@ body {
 }
 
 .list-blog-header h1 {
-	p a {
+	p-name a {
 	font-weight: 700 !important;
 	margin-top:0;
 	}
