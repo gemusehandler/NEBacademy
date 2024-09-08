@@ -17,8 +17,8 @@ iconColor="white"]
 [{ "lat": 37.7749, "lng": -122.4194, "icon": "home", "title": "Home Position" } ]
 [/a-markers]
 [a-markers icon=""]
-[  { "lat": 51.505,  "lng": -0.09 , "text": 1, "markerColor": "cadetblue" },
-{ "lat":  51.515,  "lng": -0.1 , "text": 2, "markerColor": "cadetblue" },
+[  { "lat": 48.1898929897584,  "lng": 16.3687454821444, "text": 1, "markerColor": "cadetblue" },
+{ "lat":  48.1898929897584,  "lng": 16.3687454821444, "text": 2, "markerColor": "cadetblue" },
 { "lat":   51.515,  "lng": -0.14, "text": 3, "spin": true },
 { "lat":   51.505,  "lng": 0, "text": 4, "spin": false },
 { "lat":   51.525,  "lng": -0.01, "icon": "coffee", "markerColor": "red", "title": "Lovely bistro"}]
