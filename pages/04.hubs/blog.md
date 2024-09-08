@@ -34,4 +34,4 @@ sitemap:
 media_order: NEBA_LOGO_WIT_outline.webp
 ---
 
-![NEBA_LOGO_WIT_outline](NEBA_LOGO_WIT_outline.webp "NEBA_LOGO_WIT_outline")
+![NEBA_LOGO_WIT_outline](NEBA_LOGO_WIT_outline.webp?resize=500,500 "NEBA_LOGO_WIT_outline")
