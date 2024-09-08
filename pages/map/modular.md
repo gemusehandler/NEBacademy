@@ -11,7 +11,7 @@ sitemap:
 ---
 
 # London Neighbourhoods [test]
-[map-leaflet lat=50.08955430008361 lng=14.412652272487316 zoom=4 mapname=neighbourhood style=neighbourhood]
+[map-leaflet lat=50.09 lng=14.41 zoom=4 mapname=neighbourhood style=neighbourhood]
 [a-markers markerColor="darkblue"
 iconColor="white"]
 [{ "lat": 37.7749, "lng": -122.4194, "icon": "home", "title": "Home Position" } ]
