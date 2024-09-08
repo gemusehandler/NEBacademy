@@ -10,6 +10,8 @@ feed:
 image_align: right
 visible: false
 redirect_default_route: true
+sitemap:
+    lastmod: '08-09-2024 11:42'
 ---
 
 # Main steps and outcomes
