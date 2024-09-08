@@ -22,7 +22,6 @@ feed:
     limit: 10
 flex:
     directory: news
-
 ---
 
 # News
