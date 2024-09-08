@@ -10,11 +10,7 @@ sitemap:
     lastmod: '08-09-2024 09:27'
 ---
 
----
-title: Maps
-cache_enable: false
----
-# London Neighbourhoods
+# NEBA
 [map-leaflet lat=51.505 lng=-0.09 zoom=13 mapname=neighbourhood variant=neighbourhood scale ]
 [a-markers markerColor="darkblue"
 iconColor="white"
