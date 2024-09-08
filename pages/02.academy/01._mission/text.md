@@ -14,7 +14,7 @@ redirect_default_route: true
 
 ## The NEB Academy is poised to spearhead skill development for the Renovation Wave by engaging key stakeholders in construction, engineering, architecture, and planning. By connecting educators and trainers, the Academy aims to ensure a widespread impact across the entire construction ecosystem.
 
-### Need
+## Need
 
 Accounting for around 40% of GHG emissions from building operations and an additional 10-20% from embodied emissions, the construction sector is one of the major contributors to the climate crisis, making it a priority target for the green transformation.
 
@@ -22,7 +22,7 @@ The urgency of the climate crisis requires accelerating the transfer and adoptio
 
 The need for skilled workers and educated professionals is a significant bottleneck for rethinking the built environment and the construction ecosystem and transform it towards a regenerative model.
 
-### Mission 
+## Mission 
 
 The [New European Bauhaus Academy](https://new-european-bauhaus.europa.eu/about/neb-academy_en) (NEBA), a flagship initiative of the European Commission on skills for sustainable construction, accelerates the up- and re-skilling of the current and future workforce to transition to a resilient domestic building construction sector.
 
