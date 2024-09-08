@@ -12,7 +12,7 @@ visible: false
 redirect_default_route: true
 ---
 
-# SOUTH Hub
+## SOUTH Hub
 ---
 [plugin:page-inject](/hubs/_south/_iaac/)
 [plugin:page-inject](/hubs/_south/_regione_liguria/)
