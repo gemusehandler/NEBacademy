@@ -33,4 +33,4 @@ title: 'New European Bauhaus Academy'
 visible: false
 ---
 
-![NEBA_LOGO_WIT_outline](NEBA_LOGO_WIT_outline.svg?resize=380,380 "NEBA_LOGO_WIT_outline")
+![NEBA_LOGO_WIT_outline](NEBA_LOGO_WIT_outline.svg?resize=360,360 "NEBA_LOGO_WIT_outline")
