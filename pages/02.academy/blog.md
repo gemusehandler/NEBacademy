@@ -31,6 +31,7 @@ hero_classes: hero-large
 hero_image: e62bbc0f-6160-4190-a8ae-14a4c986c7b1.jpg
 sitemap:
     lastmod: '06-08-2024 16:49'
-media_order: 'academy.webp,e62bbc0f-6160-4190-a8ae-14a4c986c7b1.jpg'
+media_order: 'academy.webp,Sliding-House-dRMM-de-Rijke-Marsh-Morgan-Architects-Grey.webp,NEBA_LOGO_WIT_outline.webp'
 ---
 
+![NEBA_LOGO_WIT_outline](NEBA_LOGO_WIT_outline.webp "NEBA_LOGO_WIT_outline")
