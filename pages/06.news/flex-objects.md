@@ -22,6 +22,7 @@ feed:
     limit: 10
 flex:
     directory: news
+body_classes: green
 ---
 
 # News

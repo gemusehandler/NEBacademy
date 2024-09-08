@@ -178,8 +178,9 @@ h1.page-title {
 .list-blog-header h1 {
   font-size: 1.8rem;
   font-family: 'Titillium Web', sans-serif;
-  font-weight: 400;
+  font-weight: 700;
   padding-bottom: 1rem !important;
+  margin-top: 0rem;
 
   @media(max-width: 576px) {
 	font-size: 1.6rem;
@@ -246,8 +247,14 @@ h6, .h6 {
 }
 
 .hero.hero-large { 
-  margin: 2rem;
+  margin: 1.5rem;
   border-radius: 1rem;
+}
+
+.green {
+	body {
+	background: #CCEFFF;
+	}
 }
 
 .yellow {
@@ -338,7 +345,6 @@ body {
     margin-top: 0;
     padding-top: 2rem;
     padding-bottom: 0rem;
-    background-color: #ffffff;
 }
 
 .fa {
@@ -360,7 +366,7 @@ body {
 
 .list-item {
     margin: 0rem 0rem 1rem 0rem!important;
-    padding: 2rem;
+    padding: 1.5rem;
     border-radius: 1rem;
     background-color: #CCEFFF;
 }
@@ -387,15 +393,10 @@ body {
 	}
 }
 
-.list-blog-header h1 {
-	p-name a {
-	font-weight: 700 !important;
-	margin-top:0;
-	}
-}
 .list-blog-header img {
 	border-radius: 1rem;
 }
+
 .creative-commons-license {
 	width: 100%;
 	display: inline-block;
