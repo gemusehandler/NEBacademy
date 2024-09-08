@@ -1,5 +1,5 @@
 ---
-title: Mission
+title: 'Main steps and outcomes'
 body_classes: modular
 date: '17:03 28-07-2024'
 hide_page_title: false
