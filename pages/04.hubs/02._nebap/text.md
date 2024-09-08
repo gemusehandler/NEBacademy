@@ -1,6 +1,5 @@
 ---
 title: 'NEBAP Hub'
-body_classes: yellow
 date: '17:03 28-07-2024'
 hide_page_title: false
 show_sidebar: true
