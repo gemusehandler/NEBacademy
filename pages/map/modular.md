@@ -15,7 +15,7 @@ sitemap:
 [a-markers markerColor="darkblue"
 iconColor="white"
 ]
-[{ "lat": 50.0875, "lng": -122.4194, "icon": "home", "title": "Home Position" } ]
+[{ "lat": 50.0875, "lng": 14.421389, "icon": "home", "title": "Home Position" } ]
 [/a-markers]
 [a-markers icon=""]
 [  { "lat": 51.505,  "lng": -0.09 , "text": 1, "draggable": true  },
