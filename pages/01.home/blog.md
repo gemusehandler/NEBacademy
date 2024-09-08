@@ -23,9 +23,9 @@ continue_link_as_button: false
 feed:
     limit: 10
 published: true
-media_order: 'home.webp,innoreneww.webp,NEBA_LOGO_WIT_outline.svg'
+media_order: 'innoreneww.webp,NEBA_LOGO_WIT_outline.svg'
 hero_classes: hero-large
-hero_image: home.webp
+hero_image: innoreneww.webp
 cache_enable: true
 sitemap:
     lastmod: '06-08-2024 10:08'
