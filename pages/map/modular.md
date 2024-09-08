@@ -19,10 +19,17 @@ iconColor="white"]
 [a-markers icon=""]
 [
 { "lat": 45.54812965514584,  "lng": 13.729376838060402, "text": 1, "draggable": true  },
-{ "lat":  51.515,  "lng": -0.1 , "text": 2, "markerColor": "cadetblue" },
-{ "lat":   51.515,  "lng": -0.14, "text": 3, "spin": true },
-{ "lat":   51.505,  "lng": 0, "text": 5, "spin": false },
-{ "lat":   51.525,  "lng": -0.01, "icon": "coffee", "markerColor": "blue", "title": "Lovely bistro"}
+{ "lat":  48.1898929897584,  "lng": 16.3687454821444, "text": 2, "markerColor": "cadetblue" },
+{ "lat":  48.1898929897584,  "lng": 16.3687454821444, "text": 3, "markerColor": "cadetblue" },
+{ "lat":  48.1898929897584,  "lng": 16.3687454821444, "text": 4, "markerColor": "cadetblue" },
+{ "lat":  48.1898929897584,  "lng": 16.3687454821444, "text": 5, "markerColor": "cadetblue" },
+{ "lat":  48.1898929897584,  "lng": 16.3687454821444, "text": 6, "markerColor": "cadetblue" },
+{ "lat":  48.1898929897584,  "lng": 16.3687454821444, "text": 7, "markerColor": "cadetblue" },
+{ "lat":  48.1898929897584,  "lng": 16.3687454821444, "text": 8, "markerColor": "cadetblue" },
+{ "lat":  48.1898929897584,  "lng": 16.3687454821444, "text": 9, "markerColor": "cadetblue" },
+{ "lat":  48.1898929897584,  "lng": 16.3687454821444, "text": 10, "markerColor": "cadetblue" },
+{ "lat":  48.1898929897584,  "lng": 16.3687454821444, "text": 11, "markerColor": "cadetblue" },
+{ "lat":  48.1898929897584,  "lng": 16.3687454821444, "text": 12, "markerColor": "cadetblue" },
 ]
 [/a-markers]
 [/map-leaflet]
