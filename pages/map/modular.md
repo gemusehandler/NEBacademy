@@ -10,7 +10,7 @@ sitemap:
     lastmod: '08-09-2024 09:27'
 ---
 
-[map-leaflet lat=50.08647573612876 lng=14.411478961807783 zoom=4 mapname=neighbourhood style=neighbourhood]
+[map-leaflet lat=50.08647573612876 lng=14.411478961807783 zoom=4 mapname=country style=country]
 [a-markers markerColor="darkblue"
 iconColor="white"]
 [{ "lat": 37.7749, "lng": -122.4194, "icon": "home", "title": "Home Position" } ]
