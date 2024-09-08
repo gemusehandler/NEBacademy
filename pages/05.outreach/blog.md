@@ -28,7 +28,7 @@ hero_scroll: false
 hide_git_sync_repo_link: false
 continue_link_as_button: false
 hero_classes: hero-large
-hero_image: a4f507b3-35cb-471e-b0f0-85efa4a6dc03.webp
+hero_image: Alex_de_Rijke_Sliding_House_Marsh_Morgan.webp
 sitemap:
     lastmod: '06-08-2024 16:49'
 media_order: Alex_de_Rijke_Sliding_House_Marsh_Morgan.webp
