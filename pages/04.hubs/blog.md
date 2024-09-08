@@ -34,4 +34,4 @@ sitemap:
 media_order: 'hub.webp,female-senior.webp,Alex_de_Rijke_Hastings_Pier_dRMMStudio.webp,NEBA_LOGO_WHITE_outline.webp'
 ---
 
-![NEBA_LOGO_WHITE_outline](NEBA_LOGO_WHITE_outline.webp?forceResize=500,500 "NEBA_LOGO_WHITE_outline")
+![NEBA_LOGO_WHITE_outline](NEBA_LOGO_WHITE_outline.webp?forceResize=600,600 "NEBA_LOGO_WHITE_outline")
