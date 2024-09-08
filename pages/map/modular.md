@@ -11,7 +11,7 @@ sitemap:
 ---
 
 # NEBA
-[map-leaflet lat=51.505 lng=-0.09 zoom=10 mapname=neighbourhood variant=neighbourhood scale ]
+[map-leaflet lat=51.505 lng=-0.09 zoom=8 mapname=neighbourhood variant=neighbourhood scale ]
 [a-markers markerColor="darkblue"
 iconColor="white"
 ]
