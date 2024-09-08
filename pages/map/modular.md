@@ -24,6 +24,14 @@ iconColor="white"]
 [/a-markers]
 [/map-leaflet]
 
+{assets:css order:5}
+/user/plugins/map-marker-leaflet/assets/leaflet.extra-markers.min.css
+{/assets}
+
+{assets:js order:10}
+/user/plugins/map-marker-leaflet/assets/leaflet.extra-markers.min.js
+{/assets}
+
 {assets:inline_js}
 jQuery(document).ready(function () {
     var map = L.map('neighbourhood').setView([51.505, -0.09],13);
@@ -69,7 +77,5 @@ jQuery(document).ready(function () {
           iconColor: 'white'
                     , icon: 'coffee'                    })
           , title: "Lovelybistro"                  }).addTo(map);
-
-
 });
 {/assets}
