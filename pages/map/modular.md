@@ -17,12 +17,12 @@ iconColor="white"]
 [{ "lat": 37.7749, "lng": -122.4194, "icon": "home", "title": "Home Position" } ]
 [/a-markers]
 [a-markers icon=""]
-[  { "lat": 45.54808305229101,  "lng": 13.729385308830699, "text": 1, "markerColor": "cadetblue" },
-{ "lat": 48.1898929897584,  "lng": 16.3687454821444, "text": 2, "markerColor": "cadetblue" },
-{ "lat":  51.75413862106606,  "lng": 19.45064115530726, "text": 3, "markerColor": "cadetblue" },
-{ "lat":  57.71682803439867,  "lng": 12.892823569069176, "text": 4, "markerColor": "darkred" },
-{ "lat":  59.44257587456566,  "lng": 24.741152797986697, "text": 5, "markerColor": "darkred" },
-{ "lat":  60.18620017493836,  "lng": 24.828308398022454, "text": 6, "markerColor": "darkred" },
+[  { "lat": 45.54808305229101,  "lng": 13.729385308830699, "text": 1, "markerColor": "blue" },
+{ "lat": 48.1898929897584,  "lng": 16.3687454821444, "text": 2, "markerColor": "blue" },
+{ "lat":  51.75413862106606,  "lng": 19.45064115530726, "text": 3, "markerColor": "blue" },
+{ "lat":  57.71682803439867,  "lng": 12.892823569069176, "text": 4, "markerColor": "red" },
+{ "lat":  59.44257587456566,  "lng": 24.741152797986697, "text": 5, "markerColor": "red" },
+{ "lat":  60.18620017493836,  "lng": 24.828308398022454, "text": 6, "markerColor": "red" },
 { "lat":  52.46478344499874,  "lng": 13.33261379766683, "text": 7, "markerColor": "cadetblue" },
 { "lat":  51.9989558827869,  "lng": 4.376116626482194, "text": 8, "markerColor": "cadetblue" },
 { "lat":  41.39664687118305,  "lng": 2.194397868393047, "text": 9, "markerColor": "green" },
