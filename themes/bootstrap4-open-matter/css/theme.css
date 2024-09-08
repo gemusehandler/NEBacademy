@@ -245,6 +245,11 @@ h6, .h6 {
   }
 }
 
+.hero.hero-large { 
+  margin: 2rem;
+  border-radius: 1rem;
+}
+
 .yellow {
 	body {
 	background-color: #FFF6AB;
@@ -255,10 +260,6 @@ h6, .h6 {
 	color: #96D5F2;
 	}
 
-	.hero.hero-large { 
-	  margin: 2rem;
-	  border-radius: 1rem;
-	}
 	.main-content {
 		.container {
 			.row {
