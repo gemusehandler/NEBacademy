@@ -12,14 +12,6 @@ visible: false
 redirect_default_route: true
 ---
 
-## Need
-
-Accounting for around 40% of GHG emissions from building operations and an additional 10-20% from embodied emissions, the construction sector is one of the major contributors to the climate crisis, making it a priority target for the green transformation.
-
-The urgency of the climate crisis requires accelerating the transfer and adoption of climate change mitigation knowledge and capabilities to workers, businesses, policy makers, and the public.
-
-The need for skilled workers and educated professionals is a significant bottleneck for rethinking the built environment and the construction ecosystem and transform it towards a regenerative model.
-
 ## Mission 
 
 The [New European Bauhaus Academy](https://new-european-bauhaus.europa.eu/about/neb-academy_en) (NEBA), a flagship initiative of the European Commission on skills for sustainable construction, accelerates the up- and re-skilling of the current and future workforce to transition to a resilient domestic building construction sector.
