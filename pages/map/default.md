@@ -24,3 +24,10 @@ iconColor="white"]
 { "lat":   51.525,  "lng": -0.01, "icon": "coffee", "markerColor": "red", "title": "Lovely bistro"}]
 [/a-markers]
 [/map-leaflet]
+
+  var redMarker = L.AwesomeMarkers.icon({
+    icon: 'coffee',
+    markerColor: 'red'
+  });
+      
+  L.marker([51.941196,4.512291], {icon: redMarker}).addTo(map);
