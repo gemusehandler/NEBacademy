@@ -34,4 +34,4 @@ sitemap:
 media_order: 'academy.webp,Sliding-House-dRMM-de-Rijke-Marsh-Morgan-Architects-Grey.webp,NEBA_LOGO_WIT_outline.webp'
 ---
 
-![NEBA_LOGO_WIT_outline](NEBA_LOGO_WIT_outline.webp "NEBA_LOGO_WIT_outline")
+![NEBA_LOGO_WIT_outline](NEBA_LOGO_WIT_outline.webp?resize=400,400  "NEBA_LOGO_WIT_outline")
