@@ -251,13 +251,9 @@ h6, .h6 {
 }
 
 .yellow {
-	.footer {
-	background-color: #FFF6AB;
-	}
 
 	h1.page-title {
 	font-weight: 700;
-	color: #96D5F2;
 	}
 
 	.main-content {
@@ -266,7 +262,7 @@ h6, .h6 {
 				.col-md-8.blog-main {
 					.modular-row.callout {
 					padding: 0 2rem;
-					margin-bottom: 2rem;
+					margin-top: 2rem;
 					border-radius: 1rem;
 					background-color: #F8EEA9;
 					}
@@ -586,6 +582,7 @@ figure.caption-right figcaption {
   position: relative;
   height: auto!important;
   padding: 1em;
+  background-color: #CDFFE6;
   display: inline-block;
 	.callout-txt {
 	font-size: 0.8rem;  
