@@ -26,20 +26,3 @@ iconColor="white"
 ]
 [/a-markers]
 [/map-leaflet]
-
-# San Fransisco Transport
-[map-leaflet lat=37.7749 lng=-122.4194 zoom=13 mapname=transd variant=transport-dark ]
-[a-markers markerColor="lightblue"
-iconColor="white"
-]
-[{ "lat": 37.7749, "lng": -122.4194, "icon": "home", "title": "Home Position" } ]
-[/a-markers]
-[a-markers icon=""]
-[  { "lat": 37.775,  "lng": -122.48 , "text": 1, "draggable": true  },
-{ "lat":  37.77,  "lng": -122.414 , "text": 2, "markerColor": "pink" },
-{ "lat":   37.765,  "lng": -122.409, "text": 3, "spin": true },
-{ "lat":   37.76,  "lng": -122.3995, "text": 4, "spin": false },
-{ "lat":   37.755,  "lng": -122.499, "icon": "coffee", "markerColor": "lightred", "title": "Lovely bistro"}
-]
-[/a-markers]
-[/map-leaflet]
