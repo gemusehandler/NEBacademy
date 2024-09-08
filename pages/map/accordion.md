@@ -10,17 +10,4 @@ sitemap:
     lastmod: '08-09-2024 09:27'
 ---
 
-# London Neighbourhoods [test]
-[map-leaflet lat=51.505 lng=-0.09 zoom=13 mapname=neighbourhood style=neighbourhood]
-[a-markers markerColor="darkblue"
-iconColor="white"]
-[{ "lat": 37.7749, "lng": -122.4194, "icon": "home", "title": "Home Position" } ]
-[/a-markers]
-[a-markers icon=""]
-[  { "lat": 51.505,  "lng": -0.09 , "text": 1, "draggable": true  },
-{ "lat":  51.515,  "lng": -0.1 , "text": 2, "markerColor": "cadetblue" },
-{ "lat":   51.515,  "lng": -0.14, "text": 3, "spin": true },
-{ "lat":   51.505,  "lng": 0, "text": 4, "spin": false },
-{ "lat":   51.525,  "lng": -0.01, "icon": "coffee", "markerColor": "red", "title": "Lovely bistro"}]
-[/a-markers]
-[/map-leaflet]
+{"title": "popup text", "lat": 122.222, "lng": 22.9, "markerColor": "red" , "icon": "coffee" }
