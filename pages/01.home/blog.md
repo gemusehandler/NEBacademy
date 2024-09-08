@@ -25,7 +25,7 @@ feed:
 published: true
 media_order: 'NEBA_LOGO_WIT_outline.svg,Alex_de_Rijke_Timber_Maggie_s_Oldham_dRMMStudio.webp'
 hero_classes: hero-large
-hero_image: innoreneww.webp
+hero_image: Alex_de_Rijke_Timber_Maggie_s_Oldham_dRMMStudio.webp
 cache_enable: true
 sitemap:
     lastmod: '06-08-2024 10:08'
