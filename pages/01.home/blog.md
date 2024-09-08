@@ -23,7 +23,7 @@ continue_link_as_button: false
 feed:
     limit: 10
 published: true
-media_order: 'innoreneww.webp,NEBA_LOGO_WIT_outline.svg'
+media_order: 'NEBA_LOGO_WIT_outline.svg,Alex_de_Rijke_Timber_Maggie_s_Oldham_dRMMStudio.webp'
 hero_classes: hero-large
 hero_image: innoreneww.webp
 cache_enable: true
