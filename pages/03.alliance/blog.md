@@ -31,6 +31,6 @@ hero_classes: hero-large
 hero_image: 1d440ab7-dc2b-4bcb-8802-e90dd2e9544b.jpg
 sitemap:
     lastmod: '19-08-2024 08:15'
-media_order: 'allianc.webp,1d440ab7-dc2b-4bcb-8802-e90dd2e9544b.jpg'
+media_order: 'allianc.webp,1d440ab7-dc2b-4bcb-8802-e90dd2e9544b.jpg,Alex_de_Rijke_Hastings_Pier_dRMMStudio.webp'
 ---
 
