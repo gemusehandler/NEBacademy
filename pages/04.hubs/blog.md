@@ -31,7 +31,7 @@ hero_classes: hero-large
 hero_image: 'Alex_de_Rijke_Timber_Architecture_Maggie_s_Oldham_ foto_dRMMStudio.webp'
 sitemap:
     lastmod: '06-08-2024 16:49'
-media_order: 'NEBA_LOGO_WIT_outline.webp,Alex_de_Rijke_Sliding_House_Marsh_Morgan.webp,Alex_de_Rijke_Oldham_dRMMStudio.webp,Alex_de_Rijke_Timber_Architecture_Maggie_s_Oldham_ foto_dRMMStudio.webp'
+media_order: 'NEBA_LOGO_WIT_outline.webp,Alex_de_Rijke_Sliding_House_Marsh_Morgan.webp,Alex_de_Rijke_Oldham_dRMMStudio.webp,Alex_de_Rijke_Timber_Maggie_s_Oldham_dRMMStudio.webp'
 ---
 
 ![NEBA_LOGO_WIT_outline](NEBA_LOGO_WIT_outline.webp?resize=400,400 "NEBA_LOGO_WIT_outline")
