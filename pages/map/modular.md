@@ -18,7 +18,7 @@ iconColor="white"
 [{ "lat": 50.0875, "lng": 14.421389, "icon": "home", "title": "Home Position" } ]
 [/a-markers]
 [a-markers icon=""]
-[  { "lat": 51.505,  "lng": -0.09 , "text": 1, "draggable": true  },
+[  { "lat": 51.505,  "lng": -0.09 , "text": InnovaWood, "draggable": true  },
 { "lat":  51.515,  "lng": -0.1 , "text": 2, "markerColor": "cadetblue" },
 { "lat":   51.515,  "lng": -0.14, "text": 3, "spin": true },
 { "lat":   51.505,  "lng": 0, "text": 4, "spin": false },
