@@ -16,7 +16,7 @@ iconColor="white"]
 [{ "lat": 37.7749, "lng": -122.4194, "icon": "home", "title": "Home Position" } ]
 [/a-markers]
 [a-markers icon=""]
-[ "title": "University of Primorska",{ "lat": 45.54808305229101,  "lng": 13.729385308830699, "text": 1, "markerColor": "blue" },
+[{ "title": "University of Primorska", "lat": 45.54808305229101,  "lng": 13.729385308830699, "text": 1, "markerColor": "blue" },
 { "title": "Holzbau Austria", "lat": 48.1898929897584,  "lng": 16.3687454821444, "text": 2, "markerColor": "blue" },
 { "title": "Politechnika Łódzka","lat":  51.75413862106606,  "lng": 19.45064115530726, "text": 3, "markerColor": "blue" },
 { "title": "RISE", "lat":  57.71682803439867,  "lng": 12.892823569069176, "text": 4, "markerColor": "red" },
