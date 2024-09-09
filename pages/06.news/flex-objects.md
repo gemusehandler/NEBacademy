@@ -27,4 +27,4 @@ body_classes: green
 
 # News
 ---
-Overview of the latest NEB-related developments in the wood and timber construction sector
+Overview of the latest NEB-related developments in the wood and timber construction sector.
