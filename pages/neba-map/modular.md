@@ -23,7 +23,7 @@ iconColor="white"]
 { "lat":  59.44257587456566,  "lng": 24.741152797986697, "text": 5, "markerColor": "red" },
 { "lat":  60.18620017493836,  "lng": 24.828308398022454, "text": 6, "markerColor": "red" },
 { "lat":  52.46478344499874,  "lng": 13.33261379766683, "text": 7, "markerColor": "yellow" },
-{ "lat":  51.9989558827869,  "lng": 4.376116626482194, "text": 8, "markerColor": "yellow" },
+{ "title": "TU Delft", "lat":  51.9989558827869,  "lng": 4.376116626482194, "text": 8, "markerColor": "yellow" },
 { "title": "IAAC", "lat":  41.39664687118305,  "lng": 2.194397868393047, "text": 9, "markerColor": "green" },
 { "lat":  44.40367350091898,  "lng": 8.935093068502935, "text": 10, "markerColor": "green" },
 { "lat":  50.83946352113498,  "lng": 4.371969268761283, "text": 11, "markerColor": "orange" },
