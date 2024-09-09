@@ -10,74 +10,25 @@ sitemap:
     lastmod: '08-09-2024 09:27'
 ---
 
-[map-leaflet lat=51.505 lng=-0.09 zoom=13 mapname=neighbourhood style=neighbourhood]
+[map-leaflet lat=50.08647573612876 lng=14.411478961807783 zoom=4 mapname=country style=country]
 [a-markers markerColor="darkblue"
 iconColor="white"]
 [{ "lat": 37.7749, "lng": -122.4194, "icon": "home", "title": "Home Position" } ]
 [/a-markers]
 [a-markers icon=""]
-[  {"icon": "coffee", "title": "popup text", "lat": 51.505,  "lng": -0.09 , "text": 1, "draggable": true  },
-{ "lat":  51.515,  "lng": -0.1 , "text": 2, "markerColor": "cadetblue" },
-{ "lat":   51.515,  "lng": -0.14, "text": 3, "spin": true },
-{ "lat":   51.505,  "lng": 0, "text": 4, "spin": false },
-{ "lat":   51.525,  "lng": -0.01, "icon": "coffee", "markerColor": "red", "title": "Lovely bistro"}]
+[  { "lat": 45.54808305229101,  "lng": 13.729385308830699, "text": 1, "markerColor": "blue" },
+{ "lat": 48.1898929897584,  "lng": 16.3687454821444, "text": 2, "markerColor": "blue" },
+{ "lat":  51.75413862106606,  "lng": 19.45064115530726, "text": 3, "markerColor": "blue" },
+{ "lat":  57.71682803439867,  "lng": 12.892823569069176, "text": 4, "markerColor": "red" },
+{ "lat":  59.44257587456566,  "lng": 24.741152797986697, "text": 5, "markerColor": "red" },
+{ "lat":  60.18620017493836,  "lng": 24.828308398022454, "text": 6, "markerColor": "red" },
+{ "lat":  52.46478344499874,  "lng": 13.33261379766683, "text": 7, "markerColor": "yellow" },
+{ "lat":  51.9989558827869,  "lng": 4.376116626482194, "text": 8, "markerColor": "yellow" },
+{ "lat":  41.39664687118305,  "lng": 2.194397868393047, "text": 9, "markerColor": "green" },
+{ "lat":  44.40367350091898,  "lng": 8.935093068502935, "text": 10, "markerColor": "green" },
+{ "lat":  50.83946352113498,  "lng": 4.371969268761283, "text": 11, "markerColor": "orange" },
+{ "lat":  50.86202202769148,  "lng": 4.367596497597833, "text": 12, "markerColor": "orange" },
+{ "lat":  48.2365441631693,  "lng": 16.336970026324305, "text": 13, "markerColor": "orange" },
+{ "lat":  41.77164677602447,  "lng": -2.4883245315936264, "text": 14, "markerColor": "green" }]
 [/a-markers]
 [/map-leaflet]
-
-{assets:css order:5}
-/user/plugins/map-marker-leaflet/assets/leaflet.extra-markers.min.css
-{/assets}
-
-{assets:js order:10}
-/user/plugins/map-marker-leaflet/assets/leaflet.extra-markers.min.js
-{/assets}
-
-{assets:inline_js}
-jQuery(document).ready(function () {
-    var map = L.map('neighbourhood').setView([51.505, -0.09],13);
-    L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
-        attribution: 'Map data &copy; <a href="https://www.openstreetmap.org/">OpenStreetMap</a> contributors',
-        maxZoom: 17
-                    }).addTo(map);
-    
-     L.marker([37.7749,-122.4194], {
-        icon: L.AwesomeMarkers.icon({
-          markerColor: 'darkblue',
-          iconColor: 'white'
-                    , icon: 'home'                    })
-          , title: "HomePosition"                  }).addTo(map);
-
-    L.marker([51.505,-0.09], {
-        icon: L.AwesomeMarkers.icon({
-          markerColor: 'blue',
-          iconColor: 'white'
-                    , icon: '1'          , text: "1"          })
-                    , draggable: 1        }).addTo(map);
-    L.marker([51.515,-0.1], {
-        icon: L.AwesomeMarkers.icon({
-          markerColor: 'cadetblue',
-          iconColor: 'white'
-                    , icon: '1'          , text: "2"          })
-                            }).addTo(map);
-    L.marker([51.515,-0.14], {
-        icon: L.AwesomeMarkers.icon({
-          markerColor: 'blue',
-          iconColor: 'white'
-          , spin: '1'          , icon: '1'          , text: "3"          })
-                            }).addTo(map);
-    L.marker([51.505,0], {
-        icon: L.AwesomeMarkers.icon({
-          markerColor: 'blue',
-          iconColor: 'white'
-                    , icon: '1'          , text: "4"          })
-                            }).addTo(map);
-    L.marker([51.525,-0.01], {
-        icon: L.AwesomeMarkers.icon({
-          markerColor: 'red',
-          iconColor: 'white'
-                    , icon: 'coffee'                    })
-          , title: "Lovelybistro"                  }).addTo(map);
-
-
-});
-{/assets}
