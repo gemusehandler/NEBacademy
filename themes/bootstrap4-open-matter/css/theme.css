@@ -253,8 +253,9 @@ h6, .h6 {
 }
 
 .green {
-	body {
-	background-color: #CCEFFF !important;
+  background-color: #CCEFFF !important;
+	.footer {
+	  background-color: #CCEFFF !important;
 	}
 }
 
