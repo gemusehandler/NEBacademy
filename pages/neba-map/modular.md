@@ -25,7 +25,7 @@ iconColor="white"]
 { "lat":  52.46478344499874,  "lng": 13.33261379766683, "text": 7, "markerColor": "yellow" },
 { "title": "TU Delft", "lat":  51.9989558827869,  "lng": 4.376116626482194, "text": 8, "markerColor": "yellow" },
 { "title": "IAAC", "lat":  41.39664687118305,  "lng": 2.194397868393047, "text": 9, "markerColor": "green" },
-{ "lat":  44.40367350091898,  "lng": 8.935093068502935, "text": 10, "markerColor": "green" },
+{ "title": "Liguria", "lat":  44.40367350091898,  "lng": 8.935093068502935, "text": 10, "markerColor": "green" },
 { "title": "InnovaWood", "lat":  50.83946352113498,  "lng": 4.371969268761283, "text": 11, "markerColor": "orange" },
 { "title": "EAAE", "lat":  50.86202202769148,  "lng": 4.367596497597833, "text": 12, "markerColor": "orange" },
 { "title": "BOKU", "lat":  48.2365441631693,  "lng": 16.336970026324305, "text": 13, "markerColor": "orange" },
