@@ -29,6 +29,6 @@ iconColor="white"]
 { "title": "InnovaWood", "lat":  50.83946352113498,  "lng": 4.371969268761283, "text": 11, "markerColor": "orange" },
 { "title": "EAAE", "lat":  50.86202202769148,  "lng": 4.367596497597833, "text": 12, "markerColor": "orange" },
 { "title": "BOKU", "lat":  48.2365441631693,  "lng": 16.336970026324305, "text": 13, "markerColor": "orange" },
-{ "lat":  41.77164677602447,  "lng": -2.4883245315936264, "text": 14, "markerColor": "green" }]
+{ "title": "CESEFOR", "lat":  41.77164677602447,  "lng": -2.4883245315936264, "text": 14, "markerColor": "green" }]
 [/a-markers]
 [/map-leaflet]
