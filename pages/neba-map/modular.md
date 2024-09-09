@@ -16,9 +16,9 @@ iconColor="white"]
 [{ "lat": 37.7749, "lng": -122.4194, "icon": "home", "title": "Home Position" } ]
 [/a-markers]
 [a-markers icon=""]
-[  { "lat": 45.54808305229101,  "lng": 13.729385308830699, "text": 1, "markerColor": "blue" },
+[ "title": "University of Primorska",{ "lat": 45.54808305229101,  "lng": 13.729385308830699, "text": 1, "markerColor": "blue" },
 { "title": "Holzbau Austria", "lat": 48.1898929897584,  "lng": 16.3687454821444, "text": 2, "markerColor": "blue" },
-{ "lat":  51.75413862106606,  "lng": 19.45064115530726, "text": 3, "markerColor": "blue" },
+{ "title": "Politechnika Łódzka","lat":  51.75413862106606,  "lng": 19.45064115530726, "text": 3, "markerColor": "blue" },
 { "title": "RISE", "lat":  57.71682803439867,  "lng": 12.892823569069176, "text": 4, "markerColor": "red" },
 { "title": "EKA", "lat":  59.44257587456566,  "lng": 24.741152797986697, "text": 5, "markerColor": "red" },
 { "title": "Aalto University", "lat":  60.18620017493836,  "lng": 24.828308398022454, "text": 6, "markerColor": "red" },
