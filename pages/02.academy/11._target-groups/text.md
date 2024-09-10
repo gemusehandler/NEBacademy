@@ -19,6 +19,8 @@ sitemap:
 
 TG1 is the main target group of institutions that can become members/partners and contributors of the NEBA. Based on the ‘train-the-trainers’ approach, they will be direct users of NEBA training courses and materials, and they will thus reach the other TGs 2, 3 & 4 within their national and regional setting. Contents are co-created to suit specific needs of their users.
 
+---
+
 * 1.1 Higher education and universities
 * 1.2 VET centres and professional schools
 * 1.3 Other training providers, e.g., specialised companies, associations, networks, clusters, living labs, makers spaces, technological hubs.
