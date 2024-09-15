@@ -36,6 +36,8 @@ a:hover:not(.btn):not(.badge):not(.navbar-brand):not(.nav-link), a:focus:not(.bt
 }
 */
 @import url("https://fonts.googleapis.com/css2?family=Titillium+Web:ital,wght@0,200;0,300;0,400;0,600;0,700;0,900;1,200;1,300;1,400;1,600;1,700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@0,100..900;1,100..900&display=swap");
+
 
 a:not(.btn, .badge, .navbar-brand, .dropdown-item) {
   color: #003180;
@@ -48,13 +50,13 @@ a:hover:not(.btn, .badge, .navbar-brand, .nav-link), a:focus:not(.btn, .badge, .
 
 p {
 	margin-bottom: 0.4;
-    font-family: 'Titillium Web', sans-serif;
-    font-weight: 300;
+    font-family: 'Noto Sans', sans-serif;
+    font-weight: 400;
 }
 
 p a {
 	margin-bottom: 0.4;
-    font-family: 'Titillium Web', sans-serif;
+    font-family: 'Noto Sans', sans-serif;
     font-weight: 600;
 }
 
@@ -385,7 +387,7 @@ body {
 .list-blog-padding {
 	p {
 	font-size: 1rem !important;
-	font-weight: 300;
+	font-weight: 400;
 	}
 	hr {
 	display: none;
@@ -429,7 +431,7 @@ ol.breadcrumb {
 }
 
 ul li {
-  font-weight: 300;
+  font-weight: 400;
 }
 
 .image-credit-wrapper {
@@ -450,8 +452,8 @@ border-top-left-radius:3px;
 color: #ccc;
 display: inline-block;
 font-size: 11px;
-font-family: "Titillium Web";
-font-weight: 300;
+font-family: "Noto Sans";
+font-weight: 400;
 padding: 5px 8px;
 position: absolute;
 bottom: 0;
