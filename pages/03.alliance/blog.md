@@ -34,4 +34,3 @@ sitemap:
 media_order: 'Alex_de_Rijke_Hastings_Pier_dRMMStudio.webp,NEBA_LOGO_WIT_outline.webp'
 ---
 
-![NEBA_LOGO_WIT_outline](NEBA_LOGO_WIT_outline.webp?resize=360,360 "NEBA_LOGO_WIT_outline")
